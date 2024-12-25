@@ -159,8 +159,7 @@
     }
 
     .news__box-content {
-        padding: 80px 15px 15px 15px;
-        gap: 50px;
+        padding: 80px 15px 40px 15px; 
     }
 
     .sectionTitle {
